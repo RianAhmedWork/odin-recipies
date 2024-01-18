@@ -3,3 +3,66 @@ body
     background-color: beige;
 }
 
+.title
+{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+.img-pos
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    display: block;
+}
+
+.para
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.ingridients
+{
+    display: inline-block;
+    border: 5px solid black;
+    padding: 10px 20px;
+    margin: 10px 100px 10px 250px;
+    width: 20%;
+}
+
+.dotted
+{
+    display: block;
+    border: 2px dotted black;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+}
+
+.steps
+{
+    display: inline-block;
+    border: 5px solid black;
+    padding: 10px 20px;
+    margin: 20px;
+    margin-left: auto;
+    width: 40%;
+}
+
+.box-align
+{
+    text-align: center;
+}
+
+.text-align
+{
+    text-align: left;
+}
+

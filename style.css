@@ -1,14 +1,16 @@
 body
 {
-    background-color: beige;
+    background-color: #F5ECE0;
 }
 
 .title
 {
     margin: auto;
-    width: 100%;
+    width: 80%;
     text-align: center;
     padding: 10px;
+    display: block;
+    border: 2px solid #B7410E;
 }
 
 .img-pos
@@ -25,44 +27,32 @@ body
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
-    text-align: center;
-}
-
-.ingridients
-{
-    display: inline-block;
-    border: 5px solid black;
-    padding: 10px 20px;
-    margin: 10px 100px 10px 250px;
-    width: 20%;
+    text-align: justify;
+    border: 2px solid #B7410E;
+    width: 50%;
 }
 
 .dotted
 {
     display: block;
-    border: 2px dotted black;
+    border: 2px dotted #7F675B;
     padding: 10px;
     margin: 10px;
     text-align: left;
 }
 
-.steps
+.solid
 {
     display: inline-block;
-    border: 5px solid black;
+    border: 5px solid #B7410E;
     padding: 10px 20px;
     margin: 20px;
     margin-left: auto;
-    width: 40%;
+    width: 35%;
 }
 
 .box-align
 {
     text-align: center;
-}
-
-.text-align
-{
-    text-align: left;
 }
 
